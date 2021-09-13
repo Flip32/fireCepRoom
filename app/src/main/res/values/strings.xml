@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login com Google</string>
+    <string name="login_label">Faça seu login</string>
+    <string name="passoword_hint">Digite seu email</string>
+    <string name="email_hint">Digite sua senha</string>
+    <string name="botao_label">Entrar</string>
+</resources>
